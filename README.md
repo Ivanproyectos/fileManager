@@ -1,6 +1,6 @@
-# FileManager Frontend
+# FileManager
 
-## Configuración del Entorno
+## Configuración del entorno en Frontend
 
 Es necesario crear un archivo `.env` en el directorio raíz del frontend con las siguientes variables de entorno:
 
@@ -11,3 +11,5 @@ VITE_TOKEN_NAME=auth_token
 ```
 
 Estas variables son esenciales para la configuración y funcionamiento del proyecto.
+
+## Configuración del entorno en Backend
